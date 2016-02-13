@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitar.DAC", "Guitar.DAC\Guitar.DAC.csproj", "{DB8C58E0-E02E-4B92-B881-62BA83579394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitar.Entities", "Guitar.Entities\Guitar.Entities.csproj", "{753C3EA8-0501-4168-8A0F-FAB4A02B9F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitar.BL", "Guitar.BL\Guitar.BL.csproj", "{8486C5A9-6956-41F6-973E-5F70594E1B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarSite", "GuitarSite\GuitarSite.csproj", "{3D4F7F77-A926-4CDD-A1DE-C2096B53C95F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{4C26288A-4D17-4418-87D6-974468438A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitar.BL.MSUnitTest", "Guitar.BL.MSUnitTest\Guitar.BL.MSUnitTest.csproj", "{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8C58E0-E02E-4B92-B881-62BA83579394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8C58E0-E02E-4B92-B881-62BA83579394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8C58E0-E02E-4B92-B881-62BA83579394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8C58E0-E02E-4B92-B881-62BA83579394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753C3EA8-0501-4168-8A0F-FAB4A02B9F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753C3EA8-0501-4168-8A0F-FAB4A02B9F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753C3EA8-0501-4168-8A0F-FAB4A02B9F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753C3EA8-0501-4168-8A0F-FAB4A02B9F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8486C5A9-6956-41F6-973E-5F70594E1B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8486C5A9-6956-41F6-973E-5F70594E1B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8486C5A9-6956-41F6-973E-5F70594E1B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8486C5A9-6956-41F6-973E-5F70594E1B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4F7F77-A926-4CDD-A1DE-C2096B53C95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F7F77-A926-4CDD-A1DE-C2096B53C95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F7F77-A926-4CDD-A1DE-C2096B53C95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F7F77-A926-4CDD-A1DE-C2096B53C95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C9E1AFE-97CF-476C-ABA0-B7A96F6BAFE1} = {4C26288A-4D17-4418-87D6-974468438A6F}
+	EndGlobalSection
+EndGlobal

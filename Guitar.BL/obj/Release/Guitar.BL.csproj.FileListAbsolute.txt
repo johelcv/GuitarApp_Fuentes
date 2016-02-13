@@ -1,0 +1,14 @@
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.BL.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.BL.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.DAC.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.Entities.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\EntityFramework.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Dapper.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.DAC.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Guitar.Entities.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\EntityFramework.xml
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Dapper.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\bin\Release\Dapper.xml
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\obj\Release\Guitar.BL.csprojResolveAssemblyReference.cache
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\obj\Release\Guitar.BL.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.BL\obj\Release\Guitar.BL.pdb

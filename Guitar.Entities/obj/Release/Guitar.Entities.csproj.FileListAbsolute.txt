@@ -1,0 +1,4 @@
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.Entities\bin\Release\Guitar.Entities.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.Entities\bin\Release\Guitar.Entities.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.Entities\obj\Release\Guitar.Entities.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.Entities\obj\Release\Guitar.Entities.pdb

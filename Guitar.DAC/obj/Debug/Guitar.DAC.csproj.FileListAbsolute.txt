@@ -1,0 +1,15 @@
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Guitar.DAC.dll.config
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Guitar.DAC.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Guitar.DAC.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Dapper.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\EntityFramework.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Guitar.Entities.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Guitar.Entities.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Dapper.pdb
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\Dapper.xml
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\EntityFramework.xml
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\obj\Debug\Guitar.DAC.csprojResolveAssemblyReference.cache
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\obj\Debug\Guitar.DAC.dll
+C:\Users\Johel\Documents\Visual Studio 2015\Projects\GuitarApp\Guitar.DAC\obj\Debug\Guitar.DAC.pdb
